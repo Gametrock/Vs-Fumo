@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SakuyaAssetsEX.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SakuyaAngruLEFT0000" x="0" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngruLEFT0001" x="388" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngruLEFT0002" x="776" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngruLEFT0003" x="1164" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngruLEFT0004" x="1552" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngruLEFT0005" x="1940" y="0" width="388" height="637"/>
+	<SubTexture name="SakuyaAngryDOWN0000" x="2328" y="0" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryDOWN0001" x="2792" y="0" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryDOWN0002" x="3256" y="0" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryDOWN0003" x="0" y="637" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryDOWN0004" x="464" y="637" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryDOWN0005" x="928" y="637" width="464" height="590"/>
+	<SubTexture name="SakuyaAngryIDLE0000" x="1392" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0001" x="1866" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0002" x="2340" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0003" x="2814" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0004" x="3288" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0005" x="0" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0006" x="2340" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0007" x="2814" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0008" x="1392" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0009" x="1866" y="637" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0010" x="474" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0011" x="948" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0012" x="1422" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0013" x="1896" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0014" x="2370" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0015" x="2844" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0016" x="3318" y="1274" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryIDLE0017" x="0" y="1911" width="474" height="637"/>
+	<SubTexture name="SakuyaAngryRIGHT0000" x="474" y="1911" width="391" height="627"/>
+	<SubTexture name="SakuyaAngryRIGHT0001" x="865" y="1911" width="391" height="627"/>
+	<SubTexture name="SakuyaAngryRIGHT0002" x="1256" y="1911" width="391" height="627"/>
+	<SubTexture name="SakuyaAngryRIGHT0003" x="1647" y="1911" width="391" height="627"/>
+	<SubTexture name="SakuyaAngryRIGHT0004" x="474" y="1911" width="391" height="627"/>
+	<SubTexture name="SakuyaAngryUP0000" x="2038" y="1911" width="414" height="654"/>
+	<SubTexture name="SakuyaAngryUP0001" x="2452" y="1911" width="414" height="654"/>
+	<SubTexture name="SakuyaAngryUP0002" x="2866" y="1911" width="414" height="654"/>
+	<SubTexture name="SakuyaAngryUP0003" x="3280" y="1911" width="414" height="654"/>
+	<SubTexture name="SakuyaAngryUP0004" x="0" y="2565" width="414" height="654"/>
+	<SubTexture name="SakuyaAngryUP0005" x="414" y="2565" width="414" height="654"/>
+</TextureAtlas>

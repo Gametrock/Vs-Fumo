@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assetsSAK.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow static instance 10000" x="0" y="0" width="155" height="158"/>
+	<SubTexture name="arrow static instance 20000" x="155" y="0" width="157" height="155"/>
+	<SubTexture name="arrow static instance 30000" x="312" y="0" width="155" height="157"/>
+	<SubTexture name="arrow static instance 40000" x="467" y="0" width="157" height="154"/>
+	<SubTexture name="blue hold end instance 10000" x="624" y="0" width="51" height="64"/>
+	<SubTexture name="blue hold piece instance 10000" x="675" y="0" width="51" height="44"/>
+	<SubTexture name="blue instance 10000" x="726" y="0" width="158" height="154"/>
+	<SubTexture name="broken instance 10000" x="884" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10001" x="884" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10002" x="1041" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10003" x="1041" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10004" x="1198" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10005" x="1198" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10006" x="1355" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10007" x="1355" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10008" x="1512" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10009" x="1512" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10010" x="1669" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10011" x="1669" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10012" x="1826" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10013" x="1826" y="0" width="157" height="162"/>
+	<SubTexture name="broken instance 10014" x="0" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10015" x="0" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10016" x="157" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10017" x="314" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10018" x="314" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10019" x="314" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10020" x="314" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10021" x="471" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10022" x="471" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10023" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10024" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10025" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10026" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10027" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10028" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10029" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10030" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10031" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10032" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 10033" x="628" y="162" width="157" height="162"/>
+	<SubTexture name="broken instance 20000" x="785" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20001" x="785" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20002" x="948" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20003" x="948" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20004" x="1111" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20005" x="1111" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20006" x="1274" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20007" x="1274" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20008" x="1437" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20009" x="1437" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20010" x="1600" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20011" x="1600" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20012" x="1763" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20013" x="1763" y="162" width="163" height="155"/>
+	<SubTexture name="broken instance 20014" x="0" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20015" x="0" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20016" x="163" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20017" x="326" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20018" x="326" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20019" x="326" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20020" x="326" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20021" x="489" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20022" x="489" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20023" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20024" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20025" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20026" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20027" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20028" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20029" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20030" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20031" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20032" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 20033" x="652" y="324" width="163" height="155"/>
+	<SubTexture name="broken instance 30000" x="815" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30001" x="815" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30002" x="972" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30003" x="972" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30004" x="1129" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30005" x="1129" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30006" x="1286" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30007" x="1286" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30008" x="1443" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30009" x="1443" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30010" x="1600" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30011" x="1600" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30012" x="1757" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30013" x="1757" y="324" width="157" height="162"/>
+	<SubTexture name="broken instance 30014" x="0" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30015" x="0" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30016" x="157" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30017" x="314" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30018" x="314" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30019" x="314" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30020" x="314" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30021" x="471" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30022" x="471" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30023" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30024" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30025" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30026" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30027" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30028" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30029" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30030" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30031" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30032" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 30033" x="628" y="486" width="157" height="162"/>
+	<SubTexture name="broken instance 40000" x="785" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40001" x="785" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40002" x="948" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40003" x="948" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40004" x="1111" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40005" x="1111" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40006" x="1274" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40007" x="1274" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40008" x="1437" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40009" x="1437" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40010" x="1600" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40011" x="1600" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40012" x="1763" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40013" x="1763" y="486" width="163" height="156"/>
+	<SubTexture name="broken instance 40014" x="0" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40015" x="0" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40016" x="163" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40017" x="326" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40018" x="326" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40019" x="326" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40020" x="326" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40021" x="489" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40022" x="489" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40023" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40024" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40025" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40026" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40027" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40028" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40029" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40030" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40031" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40032" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="broken instance 40033" x="652" y="648" width="163" height="156"/>
+	<SubTexture name="down confirm instance 10000" x="815" y="648" width="240" height="236"/>
+	<SubTexture name="down confirm instance 10001" x="1055" y="648" width="240" height="236"/>
+	<SubTexture name="down confirm instance 10002" x="1295" y="648" width="240" height="236"/>
+	<SubTexture name="down confirm instance 10003" x="1295" y="648" width="240" height="236"/>
+	<SubTexture name="down press instance 10000" x="1535" y="648" width="150" height="146"/>
+	<SubTexture name="down press instance 10001" x="1535" y="648" width="150" height="146"/>
+	<SubTexture name="down press instance 10002" x="1685" y="648" width="150" height="146"/>
+	<SubTexture name="down press instance 10003" x="1685" y="648" width="150" height="146"/>
+	<SubTexture name="fixed instance 10000" x="1835" y="648" width="157" height="158"/>
+	<SubTexture name="fixed instance 10001" x="1835" y="648" width="157" height="158"/>
+	<SubTexture name="fixed instance 10002" x="1835" y="648" width="157" height="158"/>
+	<SubTexture name="fixed instance 10003" x="0" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10004" x="0" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10005" x="157" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10006" x="157" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10007" x="314" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10008" x="471" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 10009" x="471" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20000" x="628" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20001" x="628" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20002" x="628" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20003" x="785" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20004" x="785" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20005" x="942" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20006" x="942" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20007" x="1099" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20008" x="1256" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 20009" x="1256" y="884" width="157" height="158"/>
+	<SubTexture name="fixed instance 30000" x="1413" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30001" x="1413" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30002" x="1413" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30003" x="1571" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30004" x="1571" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30005" x="1729" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30006" x="1729" y="884" width="158" height="157"/>
+	<SubTexture name="fixed instance 30007" x="0" y="1042" width="158" height="157"/>
+	<SubTexture name="fixed instance 30008" x="158" y="1042" width="158" height="157"/>
+	<SubTexture name="fixed instance 30009" x="158" y="1042" width="158" height="157"/>
+	<SubTexture name="fixed instance 40000" x="316" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40001" x="316" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40002" x="316" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40003" x="475" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40004" x="475" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40005" x="634" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40006" x="634" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40007" x="793" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40008" x="952" y="1042" width="159" height="157"/>
+	<SubTexture name="fixed instance 40009" x="952" y="1042" width="159" height="157"/>
+	<SubTexture name="green hold end instance 10000" x="1111" y="1042" width="51" height="64"/>
+	<SubTexture name="green hold piece instance 10000" x="1162" y="1042" width="51" height="44"/>
+	<SubTexture name="green instance 10000" x="1213" y="1042" width="157" height="154"/>
+	<SubTexture name="left confirm instance 10000" x="1370" y="1042" width="230" height="233"/>
+	<SubTexture name="left confirm instance 10001" x="1600" y="1042" width="230" height="233"/>
+	<SubTexture name="left confirm instance 10002" x="0" y="1275" width="230" height="233"/>
+	<SubTexture name="left confirm instance 10003" x="0" y="1275" width="230" height="233"/>
+	<SubTexture name="left press instance 10000" x="230" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10001" x="230" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10002" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10003" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10004" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10005" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10006" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10007" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10008" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10009" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10010" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10011" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10012" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10013" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10014" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10015" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10016" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10017" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10018" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="left press instance 10019" x="376" y="1275" width="146" height="149"/>
+	<SubTexture name="pruple end hold instance 10000" x="522" y="1275" width="51" height="64"/>
+	<SubTexture name="purple hold piece instance 10000" x="573" y="1275" width="51" height="44"/>
+	<SubTexture name="purple instance 10000" x="624" y="1275" width="154" height="157"/>
+	<SubTexture name="red hold end instance 10000" x="778" y="1275" width="51" height="64"/>
+	<SubTexture name="red hold piece instance 10000" x="829" y="1275" width="51" height="44"/>
+	<SubTexture name="red instance 10000" x="880" y="1275" width="154" height="157"/>
+	<SubTexture name="right confirm instance 10000" x="1034" y="1275" width="228" height="231"/>
+	<SubTexture name="right confirm instance 10001" x="1262" y="1275" width="228" height="231"/>
+	<SubTexture name="right confirm instance 10002" x="1490" y="1275" width="228" height="231"/>
+	<SubTexture name="right confirm instance 10003" x="1490" y="1275" width="228" height="231"/>
+	<SubTexture name="right press instance 10000" x="1718" y="1275" width="148" height="151"/>
+	<SubTexture name="right press instance 10001" x="1718" y="1275" width="148" height="151"/>
+	<SubTexture name="right press instance 10002" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10003" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10004" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10005" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10006" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10007" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10008" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10009" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10010" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10011" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10012" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10013" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10014" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10015" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10016" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10017" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10018" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10019" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10020" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10021" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10022" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10023" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10024" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10025" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="right press instance 10026" x="0" y="1508" width="148" height="151"/>
+	<SubTexture name="up confirm instance 10000" x="148" y="1508" width="238" height="235"/>
+	<SubTexture name="up confirm instance 10001" x="386" y="1508" width="238" height="235"/>
+	<SubTexture name="up confirm instance 10002" x="624" y="1508" width="238" height="235"/>
+	<SubTexture name="up confirm instance 10003" x="624" y="1508" width="238" height="235"/>
+	<SubTexture name="up press instance 10000" x="862" y="1508" width="154" height="151"/>
+	<SubTexture name="up press instance 10001" x="862" y="1508" width="154" height="151"/>
+	<SubTexture name="up press instance 10002" x="1016" y="1508" width="154" height="151"/>
+	<SubTexture name="up press instance 10003" x="1016" y="1508" width="154" height="151"/>
+</TextureAtlas>

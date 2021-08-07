@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SakuyaAssets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SakuyaDOWN0000" x="0" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaDOWN0001" x="0" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaDOWN0002" x="384" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaDOWN0003" x="384" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaDOWN0004" x="384" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaDOWN0005" x="768" y="0" width="384" height="591"/>
+	<SubTexture name="SakuyaIDLE0000" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0001" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0002" x="1502" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0003" x="1502" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0004" x="1852" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0005" x="1852" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0006" x="2202" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0007" x="2202" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0008" x="2552" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0009" x="2552" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0010" x="1502" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0011" x="1502" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0012" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0013" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0014" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaIDLE0015" x="1152" y="0" width="350" height="608"/>
+	<SubTexture name="SakuyaLEFT0000" x="2902" y="0" width="401" height="607"/>
+	<SubTexture name="SakuyaLEFT0001" x="2902" y="0" width="401" height="607"/>
+	<SubTexture name="SakuyaLEFT0002" x="3303" y="0" width="401" height="607"/>
+	<SubTexture name="SakuyaLEFT0003" x="3303" y="0" width="401" height="607"/>
+	<SubTexture name="SakuyaLEFT0004" x="3303" y="0" width="401" height="607"/>
+	<SubTexture name="SakuyaLEFT0005" x="0" y="608" width="401" height="607"/>
+	<SubTexture name="SakuyaRIGHT0000" x="401" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaRIGHT0001" x="401" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaRIGHT0002" x="766" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaRIGHT0003" x="766" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaRIGHT0004" x="766" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaRIGHT0005" x="1131" y="608" width="365" height="593"/>
+	<SubTexture name="SakuyaUP0000" x="1496" y="608" width="486" height="609"/>
+	<SubTexture name="SakuyaUP0001" x="1496" y="608" width="486" height="609"/>
+	<SubTexture name="SakuyaUP0002" x="1982" y="608" width="486" height="609"/>
+	<SubTexture name="SakuyaUP0003" x="1982" y="608" width="486" height="609"/>
+	<SubTexture name="SakuyaUP0004" x="1982" y="608" width="486" height="609"/>
+	<SubTexture name="SakuyaUP0005" x="2468" y="608" width="486" height="609"/>
+</TextureAtlas>
